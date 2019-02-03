@@ -1,2 +1,2 @@
 # OpenMPTutorial
-reference http://www.sanko-shoko.net/note.php?id=9twp
+To compile this c++ script, type `g++-8 main.cpp -o main.out -fopenmp` in Terminal(If you use MacOS).
